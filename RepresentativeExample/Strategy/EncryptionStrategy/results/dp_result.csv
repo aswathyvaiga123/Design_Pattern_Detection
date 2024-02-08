@@ -1,0 +1,3 @@
+x,m,y,y,z,z,q,r,w
+EncryptorTest,main,Encryptor:1,Encryptor,AesEncryptionStrategy:1,AesEncryptionStrategy,encrypt,encryptData,BlowfishEncryptionStrategy:1
+EncryptorTest,main,Encryptor:2,Encryptor,BlowfishEncryptionStrategy:1,BlowfishEncryptionStrategy,encrypt,encryptData,AesEncryptionStrategy:1
