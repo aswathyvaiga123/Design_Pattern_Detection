@@ -1,0 +1,15 @@
+x,m,y,y,z,z,w,w,n,q,r,u
+RemoteControlTest,main,RemoteControl:1,RemoteControl,Car:1,Car,CarMoveCommand:1,CarMoveCommand,onButtonPressed,execute,move,CarStopCommand:1
+RemoteControlTest,main,RemoteControl:1,RemoteControl,Car:1,Car,CarMoveCommand:1,CarMoveCommand,onButtonPressed,execute,move,TopRotateCommand:1
+RemoteControlTest,main,RemoteControl:1,RemoteControl,Car:1,Car,CarMoveCommand:1,CarMoveCommand,onButtonPressed,execute,move,TopStopRotateCommand:1
+RemoteControlTest,main,RemoteControl:1,RemoteControl,Car:1,Car,CarStopCommand:1,CarStopCommand,offButtonPressed,execute,stop,CarMoveCommand:1
+RemoteControlTest,main,RemoteControl:1,RemoteControl,Car:1,Car,CarStopCommand:1,CarStopCommand,offButtonPressed,execute,stop,TopRotateCommand:1
+RemoteControlTest,main,RemoteControl:1,RemoteControl,Car:1,Car,CarStopCommand:1,CarStopCommand,offButtonPressed,execute,stop,TopStopRotateCommand:1
+RemoteControlTest,main,RemoteControl:1,RemoteControl,Car:1,Car,CarStopCommand:1,CarStopCommand,undoButtonPressed,undo,move,TopStopRotateCommand:1
+RemoteControlTest,main,RemoteControl:1,RemoteControl,RotatingTop:1,RotatingTop,TopRotateCommand:1,TopRotateCommand,onButtonPressed,execute,startRotating,CarMoveCommand:1
+RemoteControlTest,main,RemoteControl:1,RemoteControl,RotatingTop:1,RotatingTop,TopRotateCommand:1,TopRotateCommand,onButtonPressed,execute,startRotating,CarStopCommand:1
+RemoteControlTest,main,RemoteControl:1,RemoteControl,RotatingTop:1,RotatingTop,TopRotateCommand:1,TopRotateCommand,onButtonPressed,execute,startRotating,TopStopRotateCommand:1
+RemoteControlTest,main,RemoteControl:1,RemoteControl,RotatingTop:1,RotatingTop,TopStopRotateCommand:1,TopStopRotateCommand,offButtonPressed,execute,stopRotating,CarMoveCommand:1
+RemoteControlTest,main,RemoteControl:1,RemoteControl,RotatingTop:1,RotatingTop,TopStopRotateCommand:1,TopStopRotateCommand,offButtonPressed,execute,stopRotating,CarStopCommand:1
+RemoteControlTest,main,RemoteControl:1,RemoteControl,RotatingTop:1,RotatingTop,TopStopRotateCommand:1,TopStopRotateCommand,offButtonPressed,execute,stopRotating,TopRotateCommand:1
+RemoteControlTest,main,RemoteControl:1,RemoteControl,RotatingTop:1,RotatingTop,TopStopRotateCommand:1,TopStopRotateCommand,undoButtonPressed,undo,startRotating,CarStopCommand:1
