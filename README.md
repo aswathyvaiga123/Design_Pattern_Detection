@@ -51,5 +51,7 @@ Declarative specification-based design pattern detection from JIVE execution tra
   - PizzaMaker 
 - Visitor
   - MailclientVisitor               
-        
-        
+
+### CaseStudy
+- JHotDraw5.1
+  - ConstructionEngineer 
