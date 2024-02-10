@@ -8,6 +8,7 @@ Declarative specification-based design pattern detection from JIVE execution tra
 - Abstract Factory
   - GourmentPizzaFactory       
 -  Adapter
+  - CSVAdapater 
 -  Bridge
 - Builder
   - ConstructionEngineer       
