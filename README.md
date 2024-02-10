@@ -53,5 +53,15 @@ Declarative specification-based design pattern detection from JIVE execution tra
   - MailclientVisitor               
 
 ### CaseStudy
-- JHotDraw5.1
-  - ConstructionEngineer 
+- JHotDraw 5.1
+  - dp_result
+  - src
+  - trace
+- Junit 3.7
+  - src
+  - trace
+- QuickUML 2001
+  - src
+  - trace 
+ 
+
