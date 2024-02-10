@@ -5,13 +5,13 @@ Declarative specification-based design pattern detection from JIVE execution tra
 2. CaseStudy
 
 ### RepresentativeExample
-1. AbstractFactory
+- AbstractFactory
     -GourmentPizzaFactory
-      *UI
+       -UI
         -dp_ui.png
-      *results
+      -results
         -dp_result.csv
-      *src
+      -src
         - BasePizzaFactory.java
         - BaseToppingFactory.java
         -CaliforniaOilSauce.java
@@ -29,7 +29,7 @@ Declarative specification-based design pattern detection from JIVE execution tra
         -SicilianToppingFactory.java
         -TomatoSauce.java
         -VeggiePizza
-     *trace
+     -trace
         -trace.csv
-     *README.txt
+     -README.txt
    
