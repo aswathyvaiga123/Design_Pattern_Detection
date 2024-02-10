@@ -6,7 +6,7 @@ Declarative specification-based design pattern detection from JIVE execution tra
 
 ### RepresentativeExample
 -  AbstractFactory
-          -GourmentPizzaFactory
+           -GourmentPizzaFactory
 -  Adapter
 -  Bridge
        
