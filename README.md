@@ -47,8 +47,8 @@ Declarative specification-based design pattern detection from JIVE execution tra
   - CandyVendingMachine
 - Strategy
   - EncryptionStrategy
--Template
-  - PizzaMaker
+- Template
+  - PizzaMaker 
 - Visitor
   - MailclientVisitor               
         
