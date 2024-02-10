@@ -7,9 +7,16 @@ Declarative specification-based design pattern detection from JIVE execution tra
 ### RepresentativeExample
 - Abstract Factory
   - GourmentPizzaFactory       
--  Adapter
-  - CSVAdapater 
--  Bridge
+- Adapter
+  - CSVAdapter  
+- Bridge
+  - Message 
 - Builder
-  - ConstructionEngineer       
+  - ConstructionEngineer
+- ChainofResponsibility
+  - Logger
+- Command
+  - RemoteControl
+- Composite
+  - Catalog       
         
