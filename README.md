@@ -18,5 +18,38 @@ Declarative specification-based design pattern detection from JIVE execution tra
 - Command
   - RemoteControl
 - Composite
-  - Catalog       
+  - Catalog
+- Decorator
+  - FlowerBouquet
+- Facade
+  - OrderfulfillmentControl
+- Factory Method
+  - PizzaFactory
+- Flyweight
+  - RaceCar
+- Interpreter
+  - Expression
+- Iterator
+  - PatternIterator
+- Mediator
+  - CommanderUnit
+- Memento
+  - EmpOrginator
+- Observer
+  - BidderObserver
+- Prototype
+  - DocumentPrototype
+- Proxy
+  - ReportGenerator
+- Singleton
+  - SingletonDemo
+- State
+  - CandyVendingMachine
+- Strategy
+  - EncryptionStrategy
+-Template
+  - PizzaMaker
+- Visitor
+  - MailclientVisitor               
+        
         
