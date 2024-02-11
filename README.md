@@ -58,6 +58,7 @@ Declarative specification-based design pattern detection from JIVE execution tra
   - src
   - trace
 - Junit 3.7
+  - dp_result
   - src
   - trace
 - QuickUML 2001
